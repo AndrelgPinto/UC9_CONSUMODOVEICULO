@@ -1,0 +1,15 @@
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\bin\Debug\net6.0\UC9_CONSUMODOVEICULO.exe
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\bin\Debug\net6.0\UC9_CONSUMODOVEICULO.deps.json
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\bin\Debug\net6.0\UC9_CONSUMODOVEICULO.runtimeconfig.json
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\bin\Debug\net6.0\UC9_CONSUMODOVEICULO.dll
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\bin\Debug\net6.0\ref\UC9_CONSUMODOVEICULO.dll
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\bin\Debug\net6.0\UC9_CONSUMODOVEICULO.pdb
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.csproj.AssemblyReference.cache
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.AssemblyInfoInputs.cache
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.AssemblyInfo.cs
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.csproj.CoreCompileInputs.cache
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.dll
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\ref\UC9_CONSUMODOVEICULO.dll
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.pdb
+C:\Users\andre.lgpinto\source\repos\UC9_CONSUMODOVEICULO\UC9_CONSUMODOVEICULO\obj\Debug\net6.0\UC9_CONSUMODOVEICULO.genruntimeconfig.cache
